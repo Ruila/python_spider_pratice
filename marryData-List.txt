@@ -1,0 +1,3319 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="zh-tw" http-equiv="content-language"/>
+  <meta content="-1" http-equiv="expires"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="Wed, 23 Sep 2020 00:00:00 GMT" http-equiv="last-modified"/>
+  <meta content="notranslate" name="google"/>
+  <meta content="Copyright © 2020 by Addcn Technology Co., Ltd. All Rights Reserved." name="copyright"/>
+  <meta content="all" name="robots"/>
+  <meta content="all" name="googlebot"/>
+  <meta content="" name="keywords"/>
+  <meta content="婚宴場地全台精選650家，720度環景看廳讓您找星級飯店、婚宴會館、海鮮餐廳更直覺。最貼心的搜尋條件，不論您喜歡戶外婚禮、西式證婚或是特色服務都可以幫助你們快速找到夢想中的主題婚宴。找到服務好、環境佳、菜色美味、交通便利的婚禮場地留下最棒的婚禮回憶就來結婚吧找婚宴。" name="description"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <meta content="婚宴場地全台蒐羅649家，賞廳挑婚宴會館最多獨家優惠方案！《結婚吧》" property="og:title"/>
+  <meta content="婚宴場地全台精選650家，720度環景看廳讓您找星級飯店、婚宴會館、海鮮餐廳更直覺。最貼心的搜尋條件，不論您喜歡戶外婚禮、西式證婚或是特色服務都可以幫助你們快速找到夢想中的主題婚宴。找到服務好、環境佳、菜色美味、交通便利的婚禮場地留下最棒的婚禮回憶就來結婚吧找婚宴。" property="og:description"/>
+  <meta content="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mm" property="og:url"/>
+  <meta content="https://statics.marry.com.tw/img/public/share_to_fb_big.png" property="og:image"/>
+  <meta content="結婚吧一站式婚禮服務平台" property="og:site_name"/>
+  <meta content="zh_TW" property="og:locale"/>
+  <meta content="1802784896617361" property="fb:app_id"/>
+  <meta content="婚宴場地全台蒐羅649家，賞廳挑婚宴會館最多獨家優惠方案！《結婚吧》" itemprop="name"/>
+  <meta content="婚宴場地全台精選650家，720度環景看廳讓您找星級飯店、婚宴會館、海鮮餐廳更直覺。最貼心的搜尋條件，不論您喜歡戶外婚禮、西式證婚或是特色服務都可以幫助你們快速找到夢想中的主題婚宴。找到服務好、環境佳、菜色美味、交通便利的婚禮場地留下最棒的婚禮回憶就來結婚吧找婚宴。" itemprop="description"/>
+  <meta content="https://statics.marry.com.tw/img/public/share_to_fb_big.png" itemprop="image"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="婚宴場地全台蒐羅649家，賞廳挑婚宴會館最多獨家優惠方案！《結婚吧》" name="twitter:title"/>
+  <meta content="婚宴場地全台精選650家，720度環景看廳讓您找星級飯店、婚宴會館、海鮮餐廳更直覺。最貼心的搜尋條件，不論您喜歡戶外婚禮、西式證婚或是特色服務都可以幫助你們快速找到夢想中的主題婚宴。找到服務好、環境佳、菜色美味、交通便利的婚禮場地留下最棒的婚禮回憶就來結婚吧找婚宴。" name="twitter:description"/>
+  <meta content="https://statics.marry.com.tw/img/public/share_to_fb_big.png" name="twitter:image"/>
+  <meta content="結婚吧一站式婚禮服務平台" name="author"/>
+  <meta content="app-id=tw.com.marry" name="google-play-app"/>
+  <meta content="app-id=1356057329" name="apple-itunes-app"/>
+  <title>
+   婚宴場地全台蒐羅649家，賞廳挑婚宴會館最多獨家優惠方案！《結婚吧》
+  </title>
+  <link href="https://www.marry.com.tw/image/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/pwa_manifest.json" rel="manifest"/>
+  <link href="https://statics.marry.com.tw/img/public/share_to_fb_big.png" rel="image_src"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167"/>
+  <link href="https://statics.marry.com.tw/img/icon/apple_touch_icon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://www.marry.com.tw/venue-shop" rel="canonical"/>
+  <link href="https://statics.marry.com.tw/venue-shop-20200923001.css?amp=" rel="stylesheet" type="text/css"/>
+  <script async="" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflBWZFZo/www-widgetapi.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.google-analytics.com/plugins/ua/linkid.js" type="text/javascript">
+  </script>
+  <script src="//www.youtube.com/iframe_api">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/562177280628192?v=2.9.26&amp;r=stable">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script async="" src="//bat.bing.com/bat.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RXHBXMMRKF&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5PGGGSN">
+  </script>
+  <script>
+   window.onload = function() {
+setTimeout(function(){
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PGGGSN');
+},500);
+};
+  </script>
+  <!-- </script> -->
+ </head>
+ <body>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5PGGGSN" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <header id="header">
+   <div class="header_tools">
+    <div class="rwd_wrap group">
+     <ul class="on_pc left_toolbar">
+      <li>
+       <div class="member_welcome">
+        <p class="member_name">
+         您好 歡迎來到結婚吧！置頂公告 -
+         <a href="https://www.marry.com.tw/abouts-news_detail-143.html" title="【App限定】歡慶M商城開幕，10M幣抽大獎！">
+          【App限定】歡慶M商城開幕，10M幣抽大獎！
+         </a>
+         <br/>
+         <!-- <span class="sign_out_btn">登出</span> -->
+        </p>
+       </div>
+      </li>
+     </ul>
+     <ul class="on_pc right_toolbar">
+      <li class="pc_list">
+       <a class="link" href="https://www.marry.com.tw/1462">
+        下載新人必備APP
+       </a>
+      </li>
+      <li class="pc_list">
+       <a class="no_block" href="https://www.marry.com.tw/member-register-2.html" title="店家入駐">
+        店家入駐
+       </a>
+      </li>
+      <li class="pc_list">
+       <a class="no_block" href="https://www.marry.com.tw/member-login.html" title="登入">
+        登入
+       </a>
+      </li>
+      <li class="pc_list">
+       <a class="no_block" href="https://www.marry.com.tw/member-register.html" title="免費註冊">
+        免費註冊
+       </a>
+      </li>
+     </ul>
+     <ul class="mobile_tools" id="header_menu" style="display:none;">
+      <!-- <div class="closed" id="header_menu_close"><div class="close_left"></div><div class="close_right"></div></div> -->
+      <li class="">
+       <div class="member_info_box">
+        <div class="closed" id="header_menu_close">
+         <div class="close_left">
+         </div>
+         <div class="close_right">
+         </div>
+        </div>
+        <div class="member_welcome">
+         <p class="member_name">
+          您好 歡迎來到結婚吧！置頂公告 -
+          <a href="https://www.marry.com.tw/abouts-news_detail-143.html" title="【App限定】歡慶M商城開幕，10M幣抽大獎！">
+           【App限定】歡慶M商城開幕，10M幣抽大獎！
+          </a>
+          <br/>
+          <!-- <span class="sign_out_btn">登出</span> -->
+         </p>
+        </div>
+       </div>
+       <div class="signIn_wrap">
+        <a class="tools_signin" href="https://www.marry.com.tw/member-register.html" title="免費註冊">
+         免費註冊
+        </a>
+        <a class="tools_signin" href="https://www.marry.com.tw/member-register-2.html" title="店家免費刊登">
+         店家免費刊登
+        </a>
+        <a class="tools_signin" href="https://www.marry.com.tw/member-login.html" title="登入">
+         登入
+        </a>
+       </div>
+      </li>
+      <li>
+       <p class="tools_title">
+        婚禮攻略
+       </p>
+       <div class="tools_group">
+        <img alt="敲好聊" src="https://statics.marry.com.tw/img/icon/icon_25_marrybar.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/marrybar?a_id=2708" title="敲好聊">
+         <p class="icon_dance">
+          姊妹聊心室
+         </p>
+         敲好聊
+        </a>
+       </div>
+       <div class="tools_group">
+        <img alt="專欄找靈感" src="https://statics.marry.com.tw/img/icon/icon_25_topic.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/topic-kwpg1mm?a_id=809" title="專欄找靈感">
+         專欄找靈感
+        </a>
+       </div>
+      </li>
+      <li class="find_service">
+       <p class="tools_title">
+        找店家
+       </p>
+       <div class="tools_group">
+        <img alt="婚宴場地" src="https://statics.marry.com.tw/img/icon/icon_25_venue.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/venue-shop?a_id=807" title="婚宴場地">
+         婚宴場地
+         <p class="tag_720_mobile">
+         </p>
+        </a>
+       </div>
+       <div class="tools_group">
+        <img alt="婚禮攝影" src="https://statics.marry.com.tw/img/icon/icon_25_recordphotos.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/record-home?a_id=1158" title="婚禮攝影">
+         婚禮攝影
+        </a>
+       </div>
+       <div class="tools_group">
+        <img alt="拍婚紗" src="https://statics.marry.com.tw/img/icon/icon_25_photogragh.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/prewedding-home?a_id=1157" title="拍婚紗">
+         拍婚紗
+        </a>
+       </div>
+       <div class="tools_group">
+        <img alt="其他婚禮服務" src="https://statics.marry.com.tw/img/icon/icon_25_service.png"/>
+        <span class="tools_item" onclick="switch_sub_menu(this)">
+         其他服務
+         <img src="https://statics.marry.com.tw/img/icon/ic_arrow_btm.svg"/>
+         <span class="tools_item_select" style="display: none;">
+          <a href="https://www.marry.com.tw/planners?a_id=1073" title="婚禮主持/企劃">
+           婚禮主持/企劃
+          </a>
+          <a href="https://www.marry.com.tw/decor-photos?a_id=1074" title="婚禮佈置">
+           婚禮佈置
+          </a>
+          <a href="https://www.marry.com.tw/dress-shop?a_id=1053" title="婚紗禮服">
+           婚紗禮服
+          </a>
+          <a href="https://www.marry.com.tw/shoes-shop?a_id=5281" title="婚鞋">
+           婚鞋
+          </a>
+          <a href="https://www.marry.com.tw/favors?a_id=5282" title="婚禮小物">
+           婚禮小物
+          </a>
+          <a href="https://www.marry.com.tw/invitations-shop?a_id=1076" title="喜帖/謝卡">
+           喜帖/謝卡
+          </a>
+          <a href="https://www.marry.com.tw/bride_cake-shop?a_id=1926" title="喜餅">
+           喜餅
+          </a>
+          <a href="https://www.marry.com.tw/wedding_ring-shop?a_id=5135" title="婚戒">
+           婚戒
+          </a>
+          <a href="https://www.marry.com.tw/limousine-shop?a_id=5136" title="禮車">
+           禮車
+          </a>
+          <a href="https://www.marry.com.tw/surrounding-shop?a_id=3014" title="婚禮周邊">
+           婚禮周邊
+          </a>
+         </span>
+        </span>
+       </div>
+       <div class="tools_group">
+        <img alt="新娘秘書" src="https://statics.marry.com.tw/img/icon/icon_25_makeup.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/makeup-home?a_id=1159" title="新娘秘書">
+         新娘秘書
+        </a>
+       </div>
+       <div class="tools_group">
+        <img alt="新娘愛分享" src="https://statics.marry.com.tw/img/icon/icon_25_share.png"/>
+        <a class="tools_item" href="https://www.marry.com.tw/reviews?a_id=810" title="新娘愛分享">
+         新娘愛分享
+        </a>
+       </div>
+       <a class="matching_btn radius_3" href="https://www.marry.com.tw/match?a_id=808" title="我要詢價">
+        我要詢價
+       </a>
+      </li>
+      <li class="recommend_area">
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div app_into_hide="1" class="rwd_wrap group">
+    <div class="col lg_12 md_12 sm_12">
+     <div class="logo_menu clearfix">
+      <h2 class="logo">
+       <a href="https://www.marry.com.tw" title="結婚吧一站式婚禮服務平台">
+        結婚吧一站式婚禮服務平台
+       </a>
+      </h2>
+      <ul class="pc_menu">
+       <li class="pc_menu_sub_m" rel="venue_sub_m">
+        <p class="tag_720">
+        </p>
+        <a class="onit" href="https://www.marry.com.tw/venue-shop?a_id=807" title="婚宴場地">
+         婚宴場地
+        </a>
+       </li>
+       <li class="pc_menu_sub_m" rel="prewedding_sub_m">
+        <a class="" href="https://www.marry.com.tw/prewedding-home?a_id=1157" title="拍婚紗">
+         拍婚紗
+        </a>
+       </li>
+       <li class="pc_menu_sub_m" rel="record_sub_m">
+        <a class="" href="https://www.marry.com.tw/record-home?a_id=1158" title="婚禮攝影">
+         婚禮攝影
+        </a>
+       </li>
+       <li class="pc_menu_sub_m" rel="makeup_sub_m">
+        <a class="" href="https://www.marry.com.tw/makeup-home?a_id=1159" title="新娘秘書">
+         新娘秘書
+        </a>
+       </li>
+       <li class="pc_menu_sub_m" rel="other_sub_m">
+        <a class="" href="javascript:;" id="other_sub_m_btn" onmouseover="toggle_sub_m('other_sub_m_btn','other_sub_m',true);" title="更多婚禮服務">
+         更多婚禮服務
+         <i>
+          ▼
+         </i>
+        </a>
+        <ul class="sub_m" id="other_sub_m">
+         <li>
+          <a href="https://www.marry.com.tw/planners?a_id=1073" title="婚禮主持/婚禮企劃">
+           婚禮主持/婚禮企劃
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/decor-photos?a_id=1074" title="婚禮佈置">
+           婚禮佈置
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/dress-shop?a_id=1053" title="婚紗禮服">
+           婚紗禮服
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/shoes-shop?a_id=5281" title="婚鞋">
+           婚鞋
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/favors?a_id=5282" title="婚禮小物">
+           婚禮小物
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/invitations-shop?a_id=1076" title="喜帖/謝卡">
+           喜帖/謝卡
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/bride_cake-shop?a_id=1926" title="喜餅">
+           喜餅
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/wedding_ring-shop?a_id=5135" title="婚戒">
+           婚戒
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/limousine-shop?a_id=5136" title="禮車">
+           禮車
+          </a>
+         </li>
+         <li>
+          <a href="https://www.marry.com.tw/surrounding-shop?a_id=3014" title="婚禮周邊">
+           婚禮周邊
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a class="" href="https://www.marry.com.tw/reviews?a_id=810" title="新娘愛分享">
+         新娘愛分享
+        </a>
+       </li>
+       <li>
+        <p class="icon_dance">
+         姊妹聊心室
+        </p>
+        <a class="" href="https://www.marry.com.tw/marrybar?a_id=2708" title="敲好聊">
+         敲好聊
+        </a>
+       </li>
+      </ul>
+      <span app_into_hide="1" class="mobile_icon radius_3" id="header_menu_main">
+      </span>
+      <div class="more_tools">
+       <a class="more_wanted_wall pc_list" href="https://www.marry.com.tw/match?a_id=808" title="我要詢價">
+        我要詢價
+       </a>
+       <a class="more_topics topicspc_list" href="https://www.marry.com.tw/topic-kwpg1mm?a_id=809" title="找靈感">
+        找靈感
+       </a>
+       <span class="searchBar acResults" id="kwds_rs_bid" style="display:;">
+        <input class="default" id="kwds_bid" name="kwds_bid" placeholder="搜尋" style="display: none;" type="text"/>
+        <span class="btn_search">
+         <a app_into_hide="1" href="javascript:;" id="search_submit_btn">
+          搜尋
+         </a>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="rwd_wrap group">
+   <div class="col lg_12 md_6 sm_12">
+    <ol app_into_hide="1" class="bread_list" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+      <a href="https://www.marry.com.tw/" itemprop="item" title="結婚吧首頁">
+       <span itemprop="name">
+        首頁
+       </span>
+      </a>
+      <meta content="1" itemprop="position"/>
+     </li>
+     <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+      <span itemprop="name">
+       婚宴場地
+      </span>
+      <meta content="2" itemprop="position"/>
+     </li>
+    </ol>
+   </div>
+  </div>
+  <div class="main_h1">
+   <div class="rwd_wrap group">
+    <div class="clearfix">
+     <input id="auto_show_filter_js" type="hidden" value="check_open_filter('show_');"/>
+    </div>
+   </div>
+  </div>
+  <div class="filter_pc on_pc">
+   <section class="rwd_wrap group">
+    <div class="filter_campaign" style="display: none;">
+     <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmia1mmir0mmpg1mm" id="filter_ia_campaign_input" onclick="filter_search_ref($(this));" type="checkbox"/>
+     <label for="filter_ia_campaign_input">
+      <span>
+      </span>
+      優先篩選活動店家
+     </label>
+    </div>
+    <div id="basic_filter_tl_html">
+     <dl class="show_filter" id="show_tl">
+      <dt>
+       <a href="javascript:;" onclick="check_open_filter('show_tl');">
+        店家區域
+       </a>
+      </dt>
+      <dd id="show_tl_dd" style="display:none;">
+       <ul class="radius_3">
+        <label for="tl_">
+         <li class="onit filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="" id="tl_" rel_id="show_tl" rel_tit="店家區域" title="不拘">
+           不拘
+           <span>
+            690
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001001">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001001mm" id="tl_3001001" title="台北市">
+           台北市
+           <span>
+            121
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001002">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001002mm" id="tl_3001002" title="新北市">
+           新北市
+           <span>
+            109
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001003">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001003mm" id="tl_3001003" title="桃園市">
+           桃園市
+           <span>
+            73
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001025">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001025mm" id="tl_3001025" title="新竹市">
+           新竹市
+           <span>
+            20
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001004">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001004mm" id="tl_3001004" title="新竹縣">
+           新竹縣
+           <span>
+            15
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001019">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001019mm" id="tl_3001019" title="基隆市">
+           基隆市
+           <span>
+            8
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001005">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001005mm" id="tl_3001005" title="台中市">
+           台中市
+           <span>
+            88
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001012">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001012mm" id="tl_3001012" title="苗栗縣">
+           苗栗縣
+           <span>
+            19
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001010">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001010mm" id="tl_3001010" title="彰化縣">
+           彰化縣
+           <span>
+            24
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001015">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001015mm" id="tl_3001015" title="雲林縣">
+           雲林縣
+           <span>
+            11
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001017">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001017mm" id="tl_3001017" title="南投縣">
+           南投縣
+           <span>
+            20
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001006">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001006mm" id="tl_3001006" title="高雄市">
+           高雄市
+           <span>
+            51
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001009">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001009mm" id="tl_3001009" title="台南市">
+           台南市
+           <span>
+            45
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001026">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001026mm" id="tl_3001026" title="嘉義市">
+           嘉義市
+           <span>
+            17
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001013">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001013mm" id="tl_3001013" title="嘉義縣">
+           嘉義縣
+           <span>
+            2
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001014">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001014mm" id="tl_3001014" title="屏東縣">
+           屏東縣
+           <span>
+            22
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001022">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001022mm" id="tl_3001022" title="澎湖縣">
+           澎湖縣
+           <span>
+            1
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001016">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001016mm" id="tl_3001016" title="宜蘭縣">
+           宜蘭縣
+           <span>
+            16
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001018">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001018mm" id="tl_3001018" title="花蓮縣">
+           花蓮縣
+           <span>
+            15
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001020">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001020mm" id="tl_3001020" title="台東縣">
+           台東縣
+           <span>
+            7
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tl_3001021">
+         <li class="times_loc filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtl3001021mm" id="tl_3001021" title="金門縣">
+           金門縣
+           <span>
+            1
+           </span>
+          </a>
+         </li>
+        </label>
+       </ul>
+      </dd>
+     </dl>
+    </div>
+    <div id="basic_filter_tc_html">
+     <dl class="show_filter" id="show_tc">
+      <dt>
+       <a href="javascript:;" onclick="check_open_filter('show_tc');">
+        桌數區間
+       </a>
+      </dt>
+      <dd id="show_tc_dd" style="display:none;">
+       <ul class="radius_3">
+        <label for="tc_">
+         <li class="onit filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mm" id="pc_" rel_id="show_tc" rel_tit="桌數區間" title="不拘">
+           不拘
+           <span>
+            681
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_1">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc1mm" id="tc_1" title="5桌以下">
+           5桌以下
+           <span>
+            139
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_2">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc2mm" id="tc_2" title="6-10桌">
+           6-10桌
+           <span>
+            200
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_3">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc3mm" id="tc_3" title="11-15桌">
+           11-15桌
+           <span>
+            241
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_4">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc4mm" id="tc_4" title="16-30桌">
+           16-30桌
+           <span>
+            275
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_5">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc5mm" id="tc_5" title="31-45桌">
+           31-45桌
+           <span>
+            233
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_6">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc6mm" id="tc_6" title="46-60桌">
+           46-60桌
+           <span>
+            154
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="tc_7">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmtc7mm" id="tc_7" title="60桌以上">
+           60桌以上
+           <span>
+            77
+           </span>
+          </a>
+         </li>
+        </label>
+       </ul>
+      </dd>
+     </dl>
+    </div>
+    <div id="basic_filter_pr_html">
+     <dl class="show_filter" id="show_pr">
+      <dt>
+       <a href="javascript:;" onclick="check_open_filter('show_pr');">
+        預算
+       </a>
+      </dt>
+      <dd id="show_pr_dd" style="display:none;">
+       <ul class="radius_3">
+        <label for="pr_">
+         <li class="onit filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mm" id="pr_" rel_id="show_pr" rel_tit="預算" title="不拘">
+           不拘
+           <span>
+            690
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="pr_1">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpr1mm" id="pr_1" title="1萬以下">
+           1萬以下
+           <span>
+            105
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="pr_2">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpr2mm" id="pr_2" title="1萬~2萬">
+           1萬~2萬
+           <span>
+            239
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="pr_3">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpr3mm" id="pr_3" title="2萬~3萬">
+           2萬~3萬
+           <span>
+            90
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="pr_4">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpr4mm" id="pr_4" title="3萬~5萬">
+           3萬~5萬
+           <span>
+            26
+           </span>
+          </a>
+         </li>
+        </label>
+        <label for="pr_5">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('a'));">
+          <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpr5mm" id="pr_5" title="5萬以上">
+           5萬以上
+           <span>
+            31
+           </span>
+          </a>
+         </li>
+        </label>
+       </ul>
+      </dd>
+     </dl>
+    </div>
+    <div id="basic_filter_dv_html">
+     <dl class="show_filter" id="show_dv">
+      <dt>
+       <a href="javascript:;" onclick="check_open_filter('show_dv');">
+        提供的服務
+        <span class="more_count radius_3" style="display:none;">
+        </span>
+       </a>
+      </dt>
+      <dd id="show_dv_dd" style="display:none;">
+       <div class="service_filter_box radius_3 clearfix">
+        <div class="service_filter_group">
+         <span class="service_filter_title">
+          服務配套
+         </span>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv4mmir0mm" id="dv_4" relkey="dv" type="checkbox"/>
+          <label for="dv_4">
+           婚禮主持人
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv67mmir0mm" id="dv_67" relkey="dv" type="checkbox"/>
+          <label for="dv_67">
+           新娘小管家
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv68mmir0mm" id="dv_68" relkey="dv" type="checkbox"/>
+          <label for="dv_68">
+           新娘席前餐點
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv69mmir0mm" id="dv_69" relkey="dv" type="checkbox"/>
+          <label for="dv_69">
+           迎賓雞尾酒
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv70mmir0mm" id="dv_70" relkey="dv" type="checkbox"/>
+          <label for="dv_70">
+           香檳塔
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv71mmir0mm" id="dv_71" relkey="dv" type="checkbox"/>
+          <label for="dv_71">
+           結婚蛋糕
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv72mmir0mm" id="dv_72" relkey="dv" type="checkbox"/>
+          <label for="dv_72">
+           喜糖提供
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv73mmir0mm" id="dv_73" relkey="dv" type="checkbox"/>
+          <label for="dv_73">
+           交通地圖卡
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv74mmir0mm" id="dv_74" relkey="dv" type="checkbox"/>
+          <label for="dv_74">
+           收禮文具配套
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv77mmir0mm" id="dv_77" relkey="dv" type="checkbox"/>
+          <label for="dv_77">
+           工作人員餐點
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv66mmir0mm" id="dv_66" relkey="dv" type="checkbox"/>
+          <label for="dv_66">
+           提供素食
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv65mmir0mm" id="dv_65" relkey="dv" type="checkbox"/>
+          <label for="dv_65">
+           每席桌卡菜單
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv63mmir0mm" id="dv_63" relkey="dv" type="checkbox"/>
+          <label for="dv_63">
+           每席桌花
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv27mmir0mm" id="dv_27" relkey="dv" type="checkbox"/>
+          <label for="dv_27">
+           收禮區基本佈置
+          </label>
+         </div>
+        </div>
+        <div class="service_filter_group">
+         <span class="service_filter_title">
+          相關設施
+         </span>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv10mmir0mm" id="dv_10" relkey="dv" type="checkbox"/>
+          <label for="dv_10">
+           新娘休息室
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv76mmir0mm" id="dv_76" relkey="dv" type="checkbox"/>
+          <label for="dv_76">
+           投影布幕設備
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv75mmir0mm" id="dv_75" relkey="dv" type="checkbox"/>
+          <label for="dv_75">
+           燈光音響設備
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv28mmir0mm" id="dv_28" relkey="dv" type="checkbox"/>
+          <label for="dv_28">
+           WIFI
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv29mmir0mm" id="dv_29" relkey="dv" type="checkbox"/>
+          <label for="dv_29">
+           住宿
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv31mmir0mm" id="dv_31" relkey="dv" type="checkbox"/>
+          <label for="dv_31">
+           無障礙空間
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv32mmir0mm" id="dv_32" relkey="dv" type="checkbox"/>
+          <label for="dv_32">
+           無樑柱空間
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv36mmir0mm" id="dv_36" relkey="dv" type="checkbox"/>
+          <label for="dv_36">
+           戶外儀式
+          </label>
+         </div>
+        </div>
+        <div class="service_filter_group">
+         <span class="service_filter_title">
+          周邊設施
+         </span>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv30mmir0mm" id="dv_30" relkey="dv" type="checkbox"/>
+          <label for="dv_30">
+           近捷運站
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv78mmir0mm" id="dv_78" relkey="dv" type="checkbox"/>
+          <label for="dv_78">
+           小型車停車場
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv79mmir0mm" id="dv_79" relkey="dv" type="checkbox"/>
+          <label for="dv_79">
+           遊覽車停車場
+          </label>
+         </div>
+         <div class="service_filter_option" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmdv80mmir0mm" id="dv_80" relkey="dv" type="checkbox"/>
+          <label for="dv_80">
+           近火車站
+          </label>
+         </div>
+        </div>
+       </div>
+      </dd>
+     </dl>
+    </div>
+    <div id="basic_filter_allc_html">
+     <dl class="show_filter" id="show_allc">
+      <dt>
+       <a href="javascript:;" onclick="check_open_filter('show_allc');">
+        篩選
+        <span class="more_count radius_3" style="display:none;">
+        </span>
+       </a>
+      </dt>
+      <dd id="show_allc_dd" style="display:none;">
+       <ul class="radius_3">
+        <label for="is_check_rv">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmrv1mm" id="is_check_rv" rel="rv" rel_link="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmrv1mm" relkey="allc" type="checkbox"/>
+          有預約賞廳
+         </li>
+        </label>
+        <label for="is_check_ds">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmds1mmir0mmpg1mm" id="is_check_ds" rel="ds" rel_link="https://www.marry.com.tw/venue-shop-kwbt2004mmds1mmir0mmpg1mm" relkey="allc" type="checkbox"/>
+          有720環景
+         </li>
+        </label>
+        <label for="is_check_wc">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmwc1mm" id="is_check_wc" rel="wc" rel_link="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmwc1mm" relkey="allc" type="checkbox"/>
+          有上傳作品
+         </li>
+        </label>
+        <label for="is_check_sc">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmsc1mm" id="is_check_sc" rel_link="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmsc1mm" relkey="allc" type="checkbox"/>
+          有價格方案
+         </li>
+        </label>
+        <label for="is_check_vc">
+         <li class="filter_search_ref" onclick="filter_search_ref($(this).find('input'));">
+          <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmvc1mm" id="is_check_vc" rel_link="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mmvc1mm" relkey="allc" type="checkbox"/>
+          有上傳影片
+         </li>
+        </label>
+       </ul>
+      </dd>
+     </dl>
+    </div>
+   </section>
+  </div>
+  <div class="filter_campaign_rwd" style="display: none;">
+   <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmia1mmir0mmpg1mm" id="filter_ia_campaign_input_rwd" onclick="filter_search_ref($(this));" type="checkbox"/>
+   <label for="filter_ia_campaign_input_rwd">
+    <span>
+    </span>
+    優先篩選活動店家
+   </label>
+  </div>
+  <section class="limited_wrap">
+   <link href="https://statics.marry.com.tw/venue-shop-20200923001.css" rel="stylesheet" type="text/css"/>
+   <div class="limited_title clearfix">
+    <p class="">
+     限時優惠方案
+    </p>
+    <div class="timer" data-countdown="2020/10/04 23:59:59" id="limited_timer">
+     <ul>
+      <li>
+       倒數
+      </li>
+      <li>
+       03
+      </li>
+      <li>
+       09
+      </li>
+      <li>
+       44
+      </li>
+      <li>
+       42
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="limited_offer_wrap" data-a_id="">
+    <a class="pic_loading limited_offer cltk_click" data-cltk="aS9CdDhJVkp1Ly9zSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FoODhMdzhMT3BPR2Rnb0RjS3dyVENudTZ6aEhiVHBvSEJWd2Zja2pCVkoxd1lEOHNDTHN3WmF5bTl3RzM3T2dWUUM0RGt2SVRlcE5ITlBSOUJ3SEhES2tuRDhkWFF1UTNBZW1wYWtJYkVvWlpVQ0VNS2ZhcERNOFF5YXFSazBDU2g2bWo4YzJ3ZTkyU2ZHZWYyVVNEcVdwcHpVbVplaktxTTNuRmgxQ1E5OUlrcVpjdkdHTkgwUC9kc3ZYM2FXb3c5Q0FFTTlXMVg3ZlU2bEZnWkVydWxQRTk4NGVQV1RVSXlLMUwvS3Bz" data-cltk-id="data-cltk-id_18109" href="https://www.marry.com.tw/studio-service_detail-kwmi54261mmsi18109mm.html" id="data-cltk-id_18109" target="_blank" title="88號樂章婚宴會館">
+     <span class="shop_pic">
+      <img appeared="1" class="loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2018/08/06/153354475926889400_mid_130x130.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2018/08/06/153354475926889400_mid_130x130.jpg" status="success"/>
+     </span>
+     <span>
+      限時優惠～來店送千元好禮
+     </span>
+     <span>
+      $ 13,800
+     </span>
+     <img appeared="1" class="loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2019/03/05/155177150000072800_auto_970x646.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2019/03/05/155177150000072800_auto_970x646.jpg" status="success"/>
+    </a>
+   </div>
+  </section>
+  <div class="rwd_wrap group">
+   <div class="h1_count clearfix">
+    <h1 class="channel_title">
+     <strong id="channel_title">
+      婚宴場地店家推薦一覽
+     </strong>
+    </h1>
+    <div class="count_line">
+     <span class="count" id="basic_count_main" style="display: inline;">
+      共
+      <b id="basic_count">
+       681
+      </b>
+      筆店家
+     </span>
+     <span class="line">
+     </span>
+    </div>
+    <div>
+     <a class="join_venue" href="https://www.marry.com.tw/member-register-2.html?a_id=702" target="_blank">
+      婚宴場地免費入駐
+     </a>
+    </div>
+    <div class="list_by_select on_pc">
+     <select class="basic_input w_100 on_pc" onchange="location.href=$(this).val();">
+      <option value="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmob6mmpg1mm">
+       推薦排序
+      </option>
+      <option value="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmob5mmpg1mm">
+       最多評價
+      </option>
+      <option value="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmob1mmpg1mm">
+       最近更新
+      </option>
+      <option value="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmob2mmpg1mm">
+       最高人氣
+      </option>
+     </select>
+    </div>
+   </div>
+  </div>
+  <section class="rwd_wrap group on_mobile" id="where_search_main" style="display:none;">
+   <div class="filter_by">
+    <h4>
+     進階篩選
+     <a class="close" href="javascript:;" onclick="where_search_main_close();">
+      X
+     </a>
+    </h4>
+    <div class="filter_wrap">
+     <div class="filter_list">
+      <h5>
+       店家區域
+      </h5>
+      <select class="basic_input w_100" id="tl_select" onchange="get_count();">
+       <option selected="selected" value="">
+        不拘
+       </option>
+       <option value="tl3001001mm">
+        台北市
+       </option>
+       <option value="tl3001002mm">
+        新北市
+       </option>
+       <option value="tl3001003mm">
+        桃園市
+       </option>
+       <option value="tl3001025mm">
+        新竹市
+       </option>
+       <option value="tl3001004mm">
+        新竹縣
+       </option>
+       <option value="tl3001019mm">
+        基隆市
+       </option>
+       <option value="tl3001005mm">
+        台中市
+       </option>
+       <option value="tl3001012mm">
+        苗栗縣
+       </option>
+       <option value="tl3001010mm">
+        彰化縣
+       </option>
+       <option value="tl3001015mm">
+        雲林縣
+       </option>
+       <option value="tl3001017mm">
+        南投縣
+       </option>
+       <option value="tl3001006mm">
+        高雄市
+       </option>
+       <option value="tl3001009mm">
+        台南市
+       </option>
+       <option value="tl3001026mm">
+        嘉義市
+       </option>
+       <option value="tl3001013mm">
+        嘉義縣
+       </option>
+       <option value="tl3001014mm">
+        屏東縣
+       </option>
+       <option value="tl3001022mm">
+        澎湖縣
+       </option>
+       <option value="tl3001016mm">
+        宜蘭縣
+       </option>
+       <option value="tl3001018mm">
+        花蓮縣
+       </option>
+       <option value="tl3001020mm">
+        台東縣
+       </option>
+       <option value="tl3001021mm">
+        金門縣
+       </option>
+       <option value="tl3001023mm">
+        連江縣
+       </option>
+      </select>
+     </div>
+     <div class="filter_list">
+      <h5>
+       桌數區間
+      </h5>
+      <select class="basic_input w_100" id="tc_select" onchange="get_count();">
+       <option selected="selected" value="">
+        不拘
+       </option>
+       <option value="tc1mm">
+        5桌以下
+       </option>
+       <option value="tc2mm">
+        6-10桌
+       </option>
+       <option value="tc3mm">
+        11-15桌
+       </option>
+       <option value="tc4mm">
+        16-30桌
+       </option>
+       <option value="tc5mm">
+        31-45桌
+       </option>
+       <option value="tc6mm">
+        46-60桌
+       </option>
+       <option value="tc7mm">
+        60桌以上
+       </option>
+      </select>
+     </div>
+     <div class="filter_list">
+      <h5>
+       預算
+      </h5>
+      <select class="basic_input w_100" id="pr_select" onchange="get_count();">
+       <option selected="selected" value="">
+        不拘
+       </option>
+       <option value="pr1mm">
+        1萬以下
+       </option>
+       <option value="pr2mm">
+        1萬~2萬
+       </option>
+       <option value="pr3mm">
+        2萬~3萬
+       </option>
+       <option value="pr4mm">
+        3萬~5萬
+       </option>
+       <option value="pr5mm">
+        5萬以上
+       </option>
+      </select>
+     </div>
+     <div class="filter_list">
+      <h5>
+       提供的服務
+      </h5>
+      <ul class="filter_select">
+       <li class="onit device_select" rel="all">
+        <a href="javascript:;" onclick="select_device(this);">
+         不拘
+        </a>
+       </li>
+       <li class="device_select" rel="4">
+        <a href="javascript:;" onclick="select_device(this);">
+         婚禮主持人
+        </a>
+       </li>
+       <li class="device_select" rel="67">
+        <a href="javascript:;" onclick="select_device(this);">
+         新娘小管家
+        </a>
+       </li>
+       <li class="device_select" rel="68">
+        <a href="javascript:;" onclick="select_device(this);">
+         新娘席前餐點
+        </a>
+       </li>
+       <li class="device_select" rel="69">
+        <a href="javascript:;" onclick="select_device(this);">
+         迎賓雞尾酒
+        </a>
+       </li>
+       <li class="device_select" rel="70">
+        <a href="javascript:;" onclick="select_device(this);">
+         香檳塔
+        </a>
+       </li>
+       <li class="device_select" rel="71">
+        <a href="javascript:;" onclick="select_device(this);">
+         結婚蛋糕
+        </a>
+       </li>
+       <li class="device_select" rel="72">
+        <a href="javascript:;" onclick="select_device(this);">
+         喜糖提供
+        </a>
+       </li>
+       <li class="device_select" rel="73">
+        <a href="javascript:;" onclick="select_device(this);">
+         交通地圖卡
+        </a>
+       </li>
+       <li class="device_select" rel="74">
+        <a href="javascript:;" onclick="select_device(this);">
+         收禮文具配套
+        </a>
+       </li>
+       <li class="device_select" rel="77">
+        <a href="javascript:;" onclick="select_device(this);">
+         工作人員餐點
+        </a>
+       </li>
+       <li class="device_select" rel="66">
+        <a href="javascript:;" onclick="select_device(this);">
+         提供素食
+        </a>
+       </li>
+       <li class="device_select" rel="65">
+        <a href="javascript:;" onclick="select_device(this);">
+         每席桌卡菜單
+        </a>
+       </li>
+       <li class="device_select" rel="63">
+        <a href="javascript:;" onclick="select_device(this);">
+         每席桌花
+        </a>
+       </li>
+       <li class="device_select" rel="27">
+        <a href="javascript:;" onclick="select_device(this);">
+         收禮區基本佈置
+        </a>
+       </li>
+       <li class="device_select" rel="10">
+        <a href="javascript:;" onclick="select_device(this);">
+         新娘休息室
+        </a>
+       </li>
+       <li class="device_select" rel="76">
+        <a href="javascript:;" onclick="select_device(this);">
+         投影布幕設備
+        </a>
+       </li>
+       <li class="device_select" rel="75">
+        <a href="javascript:;" onclick="select_device(this);">
+         燈光音響設備
+        </a>
+       </li>
+       <li class="device_select" rel="28">
+        <a href="javascript:;" onclick="select_device(this);">
+         WIFI
+        </a>
+       </li>
+       <li class="device_select" rel="29">
+        <a href="javascript:;" onclick="select_device(this);">
+         住宿
+        </a>
+       </li>
+       <li class="device_select" rel="31">
+        <a href="javascript:;" onclick="select_device(this);">
+         無障礙空間
+        </a>
+       </li>
+       <li class="device_select" rel="32">
+        <a href="javascript:;" onclick="select_device(this);">
+         無樑柱空間
+        </a>
+       </li>
+       <li class="device_select" rel="36">
+        <a href="javascript:;" onclick="select_device(this);">
+         戶外儀式
+        </a>
+       </li>
+       <li class="device_select" rel="30">
+        <a href="javascript:;" onclick="select_device(this);">
+         近捷運站
+        </a>
+       </li>
+       <li class="device_select" rel="78">
+        <a href="javascript:;" onclick="select_device(this);">
+         小型車停車場
+        </a>
+       </li>
+       <li class="device_select" rel="79">
+        <a href="javascript:;" onclick="select_device(this);">
+         遊覽車停車場
+        </a>
+       </li>
+       <li class="device_select" rel="80">
+        <a href="javascript:;" onclick="select_device(this);">
+         近火車站
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="filter_list">
+      <h5>
+       篩選
+      </h5>
+      <select class="basic_input w_100" id="is_check_select" onchange="get_count();">
+       <option rel="" selected="selected" value="">
+        選擇篩選
+       </option>
+       <option rel="rv" value="rv1mm">
+        有預約賞廳
+       </option>
+       <option rel="as" value="as1mm">
+        有活動方案
+       </option>
+       <option rel="ds" value="ds1mm">
+        有720環景
+       </option>
+       <option rel="wc" value="wc1mm">
+        有上傳作品
+       </option>
+       <option rel="sc" value="sc1mm">
+        有價格方案
+       </option>
+       <option rel="vc" value="vc1mm">
+        有影像作品
+       </option>
+      </select>
+     </div>
+     <div class="filter_list">
+      <h5>
+       排序依
+      </h5>
+      <select class="basic_input w_100" id="orderby_mobile">
+       <option value="ir0mmob6mm">
+        推薦排序
+       </option>
+       <option value="ir0mmob1mm">
+        最近更新
+       </option>
+       <option value="ir0mmob2mm">
+        最高人氣
+       </option>
+       <option value="ir0mmob5mm">
+        最多評價
+       </option>
+      </select>
+     </div>
+    </div>
+    <div class="filter_result boxsize">
+     <div class="search_tips">
+      依您的條件共找到「
+      <b id="basic_where_count">
+       0
+      </b>
+      」筆店家
+     </div>
+     <a class="btn btn_gray radius_3" href="javascript:;" onclick="where_search_main_close();">
+      取消
+     </a>
+     <a class="btn btn_blue radius_3" href="javascript:;" onclick="basic_search();">
+      依條件搜尋
+     </a>
+    </div>
+   </div>
+  </section>
+  <input name="business_type" type="hidden" value="2004"/>
+  <input name="moduleaction" type="hidden" value="venue-shop"/>
+  <div class="service_filter on_mobile" id="open_where_search">
+   <a href="javascript:;" onclick="where_search_main_open();">
+    進階篩選
+   </a>
+  </div>
+  <section class="rwd_wrap group">
+   <div class="col lg_12 md_12 sm_12">
+   </div>
+  </section>
+  <section class="rwd_wrap group">
+   <div class="col lg_12 md_12 sm_12" id="basic_list">
+    <div class="shop_box_list">
+     <ul class="shop_box" data-cltk="aS9BNzlJTWV1YXJzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrVEtWa1VISUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_6635">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=566" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261" title="88號樂章婚宴會館">
+        <img alt="88號樂章婚宴會館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2018/08/06/153354598662358300_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2018/08/06/153354598662358300_mid_420x280.jpg" status="success" title="88號樂章婚宴會館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261" title="88號樂章婚宴會館">
+        <img alt="88號樂章婚宴會館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2018/07/31/54261/2018/08/06/153354475926889400_mid_130x130.jpg" title="88號樂章婚宴會館"/>
+        <i class="on_line">
+         在線
+        </i>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261" title="88號樂章婚宴會館">
+        88號樂章婚宴會館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (262)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261#studio_works">
+          相簿 14
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261#studio_service">
+          方案 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6635" href="https://www.marry.com.tw/studio-54261#studio_video">
+          影片 15
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 內湖區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aFBabzhvWkR2cXZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWExWMFFGWUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTljQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_3803">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=60" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628" title="豪鼎飯店">
+        <img alt="豪鼎飯店" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10628/2020/09/22/160073937865980700_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10628/2020/09/22/160073937865980700_mid_420x280.jpg" status="success" title="豪鼎飯店"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628" title="豪鼎飯店">
+        <img alt="豪鼎飯店" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10628/2017/11/05/150986396106373000_mid_130x130.jpg" title="豪鼎飯店"/>
+        <i class="on_line">
+         在線
+        </i>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628" title="豪鼎飯店">
+        豪鼎飯店
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.7
+         <span class="evaluate_counts">
+          (77)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628#studio_works">
+          相簿 11
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628#studio_service">
+          方案 5
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3803" href="https://www.marry.com.tw/studio-10628#studio_video">
+          影片 4
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 新店區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aXZWZzlZTkt1dnZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZkxGZ1NENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTlpWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3485">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=237" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130" title="彭園婚宴會館-台北館">
+        <img alt="彭園婚宴會館-台北館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9130/2017/10/24/150883313684721500_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9130/2017/10/24/150883313684721500_mid_420x280.jpg" status="success" title="彭園婚宴會館-台北館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130" title="彭園婚宴會館-台北館">
+        <img alt="彭園婚宴會館-台北館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9130/2017/10/25/150890866733633100_mid_130x130.jpg" title="彭園婚宴會館-台北館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130" title="彭園婚宴會館-台北館">
+        彭園婚宴會館-台北館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (273)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130#studio_works">
+          相簿 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3485" href="https://www.marry.com.tw/studio-9130#studio_service">
+          方案 8
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 信義區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="ai9OaDhZVlA3dmZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZkxGTVhENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTkZWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3524">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=92" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185" title="彭園婚宴會館-八德館">
+        <img alt="彭園婚宴會館-八德館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9185/2020/06/30/159351579582480700_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9185/2020/06/30/159351579582480700_mid_420x280.jpg" status="success" title="彭園婚宴會館-八德館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185" title="彭園婚宴會館-八德館">
+        <img alt="彭園婚宴會館-八德館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9185/2017/11/11/151038422064288000_mid_130x130.jpg" title="彭園婚宴會館-八德館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185" title="彭園婚宴會館-八德館">
+        彭園婚宴會館-八德館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         5.0
+         <span class="evaluate_counts">
+          (361)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185#studio_works">
+          相簿 16
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185#studio_service">
+          方案 8
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3524" href="https://www.marry.com.tw/studio-9185#studio_video">
+          影片 1
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         桃園市 八德區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="MmZjOXBkSk12ZmJzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZUxGNFZENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTkJWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3282">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=247" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157" title="青青食尚花園會館">
+        <img alt="青青食尚花園會館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/19/8157/2019/11/04/157280060915422300_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/19/8157/2019/11/04/157280060915422300_mid_420x280.jpg" status="success" title="青青食尚花園會館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157" title="青青食尚花園會館">
+        <img alt="青青食尚花園會館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/19/8157/2019/11/04/157280060874424000_mid_130x130.jpg" title="青青食尚花園會館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157" title="青青食尚花園會館">
+        青青食尚花園會館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.8
+         <span class="evaluate_counts">
+          (910)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157#studio_works">
+          相簿 6
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157#studio_service">
+          方案 2
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3282" href="https://www.marry.com.tw/studio-8157#studio_video">
+          影片 3
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 士林區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="MmZOcC9OTkx1L2pzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZUwxZ2FENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTk5WVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3289">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=44" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+        <span class="editor_icon">
+         小編親訪
+        </span>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238" title="青青風車莊園">
+        <img alt="青青風車莊園" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/22/8238/2020/03/01/158306194936864400_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/22/8238/2020/03/01/158306194936864400_mid_420x280.jpg" status="success" title="青青風車莊園"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238" title="青青風車莊園">
+        <img alt="青青風車莊園" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/22/8238/2019/12/16/157648235294572800_mid_130x130.jpg" title="青青風車莊園"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238" title="青青風車莊園">
+        青青風車莊園
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (1,231)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238#studio_works">
+          相簿 5
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238#studio_service">
+          方案 4
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3289" href="https://www.marry.com.tw/studio-8238#studio_video">
+          影片 3
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         桃園市 桃園區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="anZWb3A0UlB1Zi9zSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZkxGMFVENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTkpWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3506">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=515" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166" title="彭園婚宴會館-新板館">
+        <img alt="彭園婚宴會館-新板館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9166/2019/10/23/157182593711476200_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9166/2019/10/23/157182593711476200_mid_420x280.jpg" status="success" title="彭園婚宴會館-新板館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166" title="彭園婚宴會館-新板館">
+        <img alt="彭園婚宴會館-新板館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/14/9166/2020/05/14/158945829308121200_mid_130x130.jpg" title="彭園婚宴會館-新板館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166" title="彭園婚宴會館-新板館">
+        彭園婚宴會館-新板館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (115)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166#studio_works">
+          相簿 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3506" href="https://www.marry.com.tw/studio-9166#studio_service">
+          方案 7
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 板橋區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="MzZOcThJZEp2YXpzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrUkpWSVFENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTjFWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3223">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=224" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892" title="雅悅會館高雄館">
+        <img alt="雅悅會館高雄館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7892/2020/09/16/160024350207515200_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7892/2020/09/16/160024350207515200_mid_420x280.jpg" status="success" title="雅悅會館高雄館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892" title="雅悅會館高雄館">
+        <img alt="雅悅會館高雄館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7892/2017/05/10/149440205933413300_mid_130x130.jpg" title="雅悅會館高雄館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892" title="雅悅會館高雄館">
+        雅悅會館高雄館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.6
+         <span class="evaluate_counts">
+          (109)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892#studio_works">
+          相簿 11
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892#studio_service">
+          方案 3
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3223" href="https://www.marry.com.tw/studio-7892#studio_video">
+          影片 2
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         高雄市 前鎮區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aEtJOG90SVp2UDNzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrUkpWTWJENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTnhWVEVNYk5PZENOZk41TmZWbGl5NnE4M0N4SWlJT3RDYkRWckhzR1NLM0RjaC9GR2xIbktIUDBDZzJuejE2L1pkNE9iU1FCc24zZHU4bzVqalVYb0UwVHhoRXBtZGYvdXg4" id="data-cltk-id_3221">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=208" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889" title="雅悅會館旗艦館">
+        <img alt="雅悅會館旗艦館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7889/2020/09/29/160137142734185900_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7889/2020/09/29/160137142734185900_mid_420x280.jpg" status="success" title="雅悅會館旗艦館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889" title="雅悅會館旗艦館">
+        <img alt="雅悅會館旗艦館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7889/2017/05/10/149439993688471300_mid_130x130.jpg" title="雅悅會館旗艦館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889" title="雅悅會館旗艦館">
+        雅悅會館旗艦館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (104)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889#studio_works">
+          相簿 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889#studio_service">
+          方案 5
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3221" href="https://www.marry.com.tw/studio-7889#studio_video">
+          影片 2
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 南港區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aGZFNm9kTWU2NnpzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrUkpWSVRENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTlJlQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_3222">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=216" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891" title="雅悅會館台南館">
+        <img alt="雅悅會館台南館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7891/2020/07/28/159591876845062600_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7891/2020/07/28/159591876845062600_mid_420x280.jpg" status="success" title="雅悅會館台南館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891" title="雅悅會館台南館">
+        <img alt="雅悅會館台南館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/05/10/7891/2017/05/10/149440128888241100_mid_130x130.jpg" title="雅悅會館台南館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891" title="雅悅會館台南館">
+        雅悅會館台南館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.7
+         <span class="evaluate_counts">
+          (113)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891#studio_works">
+          相簿 11
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891#studio_service">
+          方案 2
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3222" href="https://www.marry.com.tw/studio-7891#studio_video">
+          影片 2
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台南市 東區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="anZKdDlOQk51L2ZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWEtGZ1FHWUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmRGtKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_4850">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=195" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324" title="水源會館-公館店">
+        <img alt="水源會館-公館店" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/11/15324/2019/11/26/157476285182925400_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/11/15324/2019/11/26/157476285182925400_mid_420x280.jpg" status="success" title="水源會館-公館店"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324" title="水源會館-公館店">
+        <img alt="水源會館-公館店" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/11/15324/2017/11/01/150953385793863700_mid_130x130.jpg" title="水源會館-公館店"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324" title="水源會館-公館店">
+        水源會館-公館店
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.6
+         <span class="evaluate_counts">
+          (225)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324#studio_works">
+          相簿 6
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324#studio_service">
+          方案 6
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4850" href="https://www.marry.com.tw/studio-15324#studio_video">
+          影片 1
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 中正區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aXFVNjlJTVk2dmJzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZQaWlrWExsOGJINUpVY05KOE9uZTlpMnV5WWtrSVZOZjk5TTNjcU1tZklSaGQwSEhEWmxDTHVOamNvVnpjZkd0aGtJM0VvWXhVRGtzVGZmOENmYmtvZk81OWdtMnE0eXY4WWoxTDVtTEZDK3l4Qm4rekVvaDFTSFJOai9mUnlDZC9oMkkzdTQ4dFpvbUpUcjMwUC9kZ3ZYM0JUSThyV1ZNRnFuOVdwdTB6MWxsYw==" id="data-cltk-id_8755">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=512" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920" title="薇絲山庭草原夜景婚宴會館">
+        <img alt="薇絲山庭草原夜景婚宴會館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2019/09/02/134920/2020/02/25/158262933981057900_mid_420x280.jpeg" src="https://d2uju15hmm6f78.cloudfront.net/image/2019/09/02/134920/2020/02/25/158262933981057900_mid_420x280.jpeg" status="success" title="薇絲山庭草原夜景婚宴會館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920" title="薇絲山庭草原夜景婚宴會館">
+        <img alt="薇絲山庭草原夜景婚宴會館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2019/09/02/134920/2020/02/25/158262933974427600_mid_130x130.jpeg" title="薇絲山庭草原夜景婚宴會館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920" title="薇絲山庭草原夜景婚宴會館">
+        薇絲山庭草原夜景婚宴會館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.2
+         <span class="evaluate_counts">
+          (5)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920#studio_works">
+          相簿 11
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_8755" href="https://www.marry.com.tw/studio-134920#studio_service">
+          方案 2
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新竹縣 湖口鄉
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aEtWaC9JUkR1Ly9zSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrUktGZ1NENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTlJkQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_3101">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=158" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+        <span class="editor_icon">
+         小編親訪
+        </span>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530" title="翰品酒店新莊">
+        <img alt="翰品酒店新莊" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/04/28/7530/2017/04/28/149336250251345800_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/04/28/7530/2017/04/28/149336250251345800_mid_420x280.jpg" status="success" title="翰品酒店新莊"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530" title="翰品酒店新莊">
+        <img alt="翰品酒店新莊" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/04/28/7530/2019/03/08/155203075356221100_mid_130x130.jpg" title="翰品酒店新莊"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530" title="翰品酒店新莊">
+        翰品酒店新莊
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (516)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530#studio_works">
+          相簿 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3101" href="https://www.marry.com.tw/studio-7530#studio_service">
+          方案 1
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 新莊區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aVA1cnBZVWE3dmZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWExWMFZISUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmQzBKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_3846">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=60" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671" title="豪鼎飯店-中興時尚館">
+        <img alt="豪鼎飯店-中興時尚館" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10671/2020/06/24/159299664468608900_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10671/2020/06/24/159299664468608900_mid_420x280.jpg" status="success" title="豪鼎飯店-中興時尚館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671" title="豪鼎飯店-中興時尚館">
+        <img alt="豪鼎飯店-中興時尚館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10671/2017/11/01/150954677780858400_mid_130x130.jpg" title="豪鼎飯店-中興時尚館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671" title="豪鼎飯店-中興時尚館">
+        豪鼎飯店-中興時尚館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (62)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671#studio_works">
+          相簿 6
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671#studio_service">
+          方案 5
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3846" href="https://www.marry.com.tw/studio-10671#studio_video">
+          影片 3
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 新店區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="amZOcjlZSWZ2YXpzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrZkpGSVJENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTlJiQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_3683">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=324" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993" title="心之芳庭">
+        <img alt="心之芳庭" appeared="1" class="shop_pic_img loaded" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/30/9993/2018/05/08/152575394406017800_mid_420x280.jpg" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/30/9993/2018/05/08/152575394406017800_mid_420x280.jpg" status="success" title="心之芳庭"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993" title="心之芳庭">
+        <img alt="心之芳庭" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/06/30/9993/2018/05/08/152575394398106800_mid_130x130.jpg" title="心之芳庭"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993" title="心之芳庭">
+        心之芳庭
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         5.0
+         <span class="evaluate_counts">
+          (12)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993#studio_works">
+          相簿 14
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3683" href="https://www.marry.com.tw/studio-9993#studio_service">
+          方案 8
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台中市 北屯區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aVBWZzhkZEs2L2ZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWEtGSVVHNEJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmQ1VKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_4923">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=83" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966" title="彭園婚宴會館-新店館">
+        <img alt="彭園婚宴會館-新店館" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/23/15966/2017/10/31/150943581139102600_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="彭園婚宴會館-新店館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966" title="彭園婚宴會館-新店館">
+        <img alt="彭園婚宴會館-新店館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/23/15966/2017/10/31/150943580932035900_mid_130x130.jpg" title="彭園婚宴會館-新店館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966" title="彭園婚宴會館-新店館">
+        彭園婚宴會館-新店館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (37)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966#studio_works">
+          相簿 9
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4923" href="https://www.marry.com.tw/studio-15966#studio_service">
+          方案 6
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 新店區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aWFaZzhZTk90L2ZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWExWd1dGWUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmQ0VKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_3923">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=260" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748" title="青青格麗絲莊園">
+        <img alt="青青格麗絲莊園" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10748/2020/03/01/158305782695460900_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="青青格麗絲莊園"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748" title="青青格麗絲莊園">
+        <img alt="青青格麗絲莊園" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/07/14/10748/2019/10/26/157209070566198700_mid_130x130.jpg" title="青青格麗絲莊園"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748" title="青青格麗絲莊園">
+        青青格麗絲莊園
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.9
+         <span class="evaluate_counts">
+          (1,252)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748#studio_works">
+          相簿 7
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_3923" href="https://www.marry.com.tw/studio-10748#studio_service">
+          方案 4
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         桃園市 蘆竹區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="M3FRKzk5QkN1YXJzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrWEsxc1JIb0JOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTlmQjBKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_4958">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=264" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033" title="彭園婚宴會館-三重館">
+        <img alt="彭園婚宴會館-三重館" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/24/16033/2017/10/27/150907943723443200_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="彭園婚宴會館-三重館"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033" title="彭園婚宴會館-三重館">
+        <img alt="彭園婚宴會館-三重館" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/10/24/16033/2018/11/17/154243386973038800_mid_130x130.jpg" title="彭園婚宴會館-三重館"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033" title="彭園婚宴會館-三重館">
+        彭園婚宴會館-三重館
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.6
+         <span class="evaluate_counts">
+          (71)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033#studio_works">
+          相簿 7
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_4958" href="https://www.marry.com.tw/studio-16033#studio_service">
+          方案 5
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 三重區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="Mi9CdDhvTk91dnpzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZOaWlrUkxWZ2JENWtGY1psOElEM3dpRzIxWWxJUEdZS3M5WWpjdklESkp3aEIyenFYTjFIUHVNMlY3RjNIVVhaYTI5S1BvTlJYQkFvU1BmOFROT2t6TEwwc2d5eWc2em10TnpSSXRpYkhEN0hvQW1EcURkVm9RalZIMDdpSG1TWTRoM1JtN29BcElNSGxUb0QxZFBkNjl6N1dTSnNuVUY5ZDlEUlgvZVk2bWc=" id="data-cltk-id_2936">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=281" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039" title="晶品北海婚宴會館 集賢店">
+        <img alt="晶品北海婚宴會館 集賢店" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2017/04/15/7039/2017/06/03/149648648479419100_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="晶品北海婚宴會館 集賢店"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039" title="晶品北海婚宴會館 集賢店">
+        <img alt="晶品北海婚宴會館 集賢店" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2017/04/15/7039/2017/06/03/149648648417772700_mid_130x130.jpg" title="晶品北海婚宴會館 集賢店"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039" title="晶品北海婚宴會館 集賢店">
+        晶品北海婚宴會館 集賢店
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.7
+         <span class="evaluate_counts">
+          (82)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039#studio_works">
+          相簿 19
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039#studio_service">
+          方案 7
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_2936" href="https://www.marry.com.tw/studio-7039#studio_video">
+          影片 1
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         新北市 三重區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="MktKcjhvTkM2cTNzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZNaWlrUUtWZ1hHWUJOT0p0K09HL3ZsSGVvZjFRT1Zadmt2SVRRcE5IT0pobE0zWGVPZnhqQ3RkWEU4RURCZWtCWG5jdmQ4OTljRDBKYk5QWUxaZWdwWnFSa3lpU2k0U0hrS3lGZThDVEhDK2pvQm51b1VOVjFWV01iMC9lZTBXODJpV3d2OHBNK2NkaVFPOGk4ZHZWaXBTL1FTbzA5UTBBYTdXWUU5ZVV3M0I4" id="data-cltk-id_6883">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=552" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354" title="Brick Yard 美軍俱樂部">
+        <img alt="Brick Yard 美軍俱樂部" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2018/09/18/64354/2020/07/05/159391586219105500_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="Brick Yard 美軍俱樂部"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354" title="Brick Yard 美軍俱樂部">
+        <img alt="Brick Yard 美軍俱樂部" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2018/09/18/64354/2018/09/18/153726468305268100_mid_130x130.jpg" title="Brick Yard 美軍俱樂部"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354" title="Brick Yard 美軍俱樂部">
+        Brick Yard 美軍俱樂部
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         4.2
+         <span class="evaluate_counts">
+          (284)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354#studio_works">
+          相簿 20
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354#studio_service">
+          方案 8
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_6883" href="https://www.marry.com.tw/studio-64354#studio_video">
+          影片 5
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台北市 士林區
+        </span>
+       </div>
+      </li>
+     </ul>
+     <ul class="shop_box" data-cltk="aUtZK29kY1p0dnZzSXMweVB6ZmtqMnJQaE5PMHhwMFFNS0FsL2RxaDVhSzdOSG8yeERCWm1PdU1udmUvblhiSnA5R01UVjZQaWlrWExWc1JISmRVY05KOE9uZTlpMnV5WWtrSVZOZjk5TTNjcU1tZklSaGQwSEhEWmxDTHVOamNvVnpjZkd0aGtJM0VvWXhVRFVnVGZmOENmYmtvZk81OWdtMnE0eXY4WWoxTDVtTEZDK3l4Qm4rekVvaDFTSFJOai9mUnlDZC9oMkkzdTQ4dFpvbUpUcjMwUC9kZ3ZYM0JUSThyV1ZNRnFuOVdwdTB6MWxsYw==" id="data-cltk-id_7850">
+      <li class="shop_tag" style="background-color:#FFB646">
+       <img src="https://statics.marry.com.tw/img/public/gift_icon.svg"/>
+       預約賞廳
+      </li>
+      <li class="shop_pic">
+       <div class="shop_pic_tag">
+        <a href="https://www.marry.com.tw/3dspace/?id=496" target="_blank">
+         <span class="space_icon">
+          720度環景
+         </span>
+        </a>
+       </div>
+       <a class="shop_pic_a pic_loading cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315" title="臻悅美饌(大和屋關係企業)">
+        <img alt="臻悅美饌(大和屋關係企業)" class="shop_pic_img" data-appear-top-offset="2100" link="https://d2uju15hmm6f78.cloudfront.net/image/2019/03/09/100315/2020/06/14/159212881547478100_mid_420x280.jpg" src="https://statics.marry.com.tw/img/icon/loading_20170627_450x300.gif" title="臻悅美饌(大和屋關係企業)"/>
+       </a>
+       <a class="shop_profPic cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315" title="臻悅美饌(大和屋關係企業)">
+        <img alt="臻悅美饌(大和屋關係企業)" class="profile_pic" src="https://d2uju15hmm6f78.cloudfront.net/image/2019/03/09/100315/2019/03/09/155211866650712000_mid_130x130.png" title="臻悅美饌(大和屋關係企業)"/>
+       </a>
+      </li>
+      <li class="shop_info">
+       <a class="shop_name cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315" title="臻悅美饌(大和屋關係企業)">
+        臻悅美饌(大和屋關係企業)
+       </a>
+       <div class="shop_title">
+        <a class="evaluate cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315#studio_reviews">
+         <img src="https://statics.marry.com.tw/img/public/selected.svg"/>
+         0
+         <span class="evaluate_counts">
+          (0)
+         </span>
+        </a>
+        <span class="shop_work_wrap">
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315#studio_works">
+          相簿 8
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315#studio_service">
+          方案 3
+         </a>
+         <a class="shop_work cltk_click" data-cltk-id="data-cltk-id_7850" href="https://www.marry.com.tw/studio-100315#studio_video">
+          影片 3
+         </a>
+        </span>
+       </div>
+       <!-- <div class="shop_tag_wrap"><div class="shop_tag_none">&nbsp</div><a href="" class="shop_tag">#720環景</a><a href="" class="shop_tag">#小編親訪</a></div> -->
+       <div class="tag_wrap">
+        <span class="tag_pink">
+         #獨家優惠
+        </span>
+        <span class="tag_gray">
+         #小桌數
+        </span>
+       </div>
+       <div class="shop_add">
+        <img src="https://statics.marry.com.tw/img/public/vendorprofile/location_gray_20.svg"/>
+        <span>
+         台中市 北屯區
+        </span>
+       </div>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="pages">
+    <ul class="pagination">
+     <li>
+      <a class="active" href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mm">
+       1
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg2mm">
+       2
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg3mm">
+       3
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg4mm">
+       4
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg5mm">
+       5
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg6mm">
+       6
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg7mm">
+       7
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg8mm">
+       8
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg9mm">
+       9
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg10mm">
+       10
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg2mm">
+       下一頁 &gt;
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg11mm">
+       下十頁 &gt;
+      </a>
+     </li>
+     <li>
+      <span>
+       第
+       <b id="now_page_pic">
+        1
+       </b>
+       /33頁
+      </span>
+     </li>
+    </ul>
+    <div class="load_pages">
+     <div class="next_pages clearfix">
+      <a href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg2mm" id="next_pages" page="1" page_total="33">
+       載入更多
+      </a>
+     </div>
+    </div>
+    <div class="all_pages">
+     第
+     <b id="now_page">
+      1
+     </b>
+     /33頁
+    </div>
+   </div>
+   <input id="pagesize" type="hidden" value="21"/>
+   <input href="https://www.marry.com.tw/venue-shop-kwbt2004mmir0mmpg1mm" id="now_link" type="hidden"/>
+  </section>
+  <input name="image_loading" type="hidden" value="https://statics.marry.com.tw/img/icon/loading_20110926_152x114.gif"/>
+  <div class="qa_line">
+   <div>
+    <div class="qa_content radius_5 clearfix" id="footer_question_show" style="display:none;">
+     <header>
+      <h4 id="footer_question_title">
+       問題回報
+      </h4>
+      <a class="close_it" href="javascript:void('0');" onclick="footer_question_close();">
+       X
+      </a>
+     </header>
+     <input class="msg_input error_box radius_3" id="footer_question_name" maxlength="10" name="footer_question_name" placeholder="您的暱稱" size="10" type="text" value=""/>
+     <div class="error_text" style="display:none;">
+      請輸入您的暱稱
+     </div>
+     <input class="msg_input radius_3" id="footer_question_email" maxlength="30" name="footer_question_email" placeholder="您的信箱" size="10" type="text" value=""/>
+     <div class="error_text" style="display:none;">
+      請輸入您的信箱
+     </div>
+     <textarea class="radius_3" id="footer_question_descri" name="footer_question_descri" placeholder="Hi，使用平台的過程中遇到問題或想分享建議給我們嗎？歡迎在此回應。"></textarea>
+     <div class="error_text" style="display:none;">
+      請輸入您的問題或建議
+     </div>
+     <input class="btn_pink send radius_3" id="footer_question_submit" onclick="add_question(this,'footer_question','footer_question_ok','footer_question_show');" type="button" value="確認送出"/>
+     <span class="send_q" id="footer_question_ok" style="display:none;">
+      謝謝您的回饋，
+      <br/>
+      讓我們能做的更好！
+     </span>
+    </div>
+   </div>
+  </div>
+  <div id="downloadAppSlider">
+   <div class="left">
+    <a href="https://marry.com.tw/3112" target="_blank">
+     <img src="https://statics.marry.com.tw/img/public/download_app_qr_code.png"/>
+    </a>
+   </div>
+   <div class="right">
+    <a href="https://marry.com.tw/3112" target="_blank">
+     下
+     <br/>
+     載
+     <br/>
+     ＡＰＰ
+     <br/>
+     訊
+     <br/>
+     息
+     <br/>
+     不
+     <br/>
+     錯
+     <br/>
+     過
+    </a>
+   </div>
+  </div>
+  <div class="show_msg radius_3 boxsize" id="notice" notice_show="" style="min-width:350px; display:none">
+   <span id="notice_msg">
+   </span>
+   <a class="close_it" href="javascript:;" onclick="notice_msg_close();">
+    X
+   </a>
+  </div>
+  <div id="prompt" rel_show="" style="display:none;">
+   <div rel="title">
+   </div>
+   <div rel="msg">
+   </div>
+  </div>
+  <footer app_into_hide="1" id="footer">
+   <div class="rwd_wrap group">
+    <div class="lg_12 md_12 sm_12 clearfix">
+     <ul class="marry_socail">
+      <li class="icon_socail i_s_fb">
+       <a href="https://www.marry.com.tw/711" target="_blank" title="結婚吧粉絲頁">
+       </a>
+      </li>
+      <li class="icon_socail i_s_ig">
+       <a href="https://www.marry.com.tw/712" target="_blank" title="粉結婚吧IG">
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="rwd_wrap group">
+    <div class="col lg_12 md_12 sm_12">
+     <div class="marry_footer clearfix">
+      <ul class="footer_list">
+       <li>
+        <a href="https://www.marry.com.tw/abouts-about.html?a_id=1031">
+         關於結婚吧
+        </a>
+        │
+       </li>
+       <li>
+        <a href="https://www.marry.com.tw/abouts-news_index.html?a_id=1032">
+         網站公告
+        </a>
+        │
+       </li>
+       <li>
+        <a href="https://www.marry.com.tw/sitemap?a_id=1033">
+         網站地圖
+        </a>
+        │
+       </li>
+       <li>
+        <a href="https://www.marry.com.tw/1035" target="_blank">
+         工作機會
+        </a>
+        │
+       </li>
+       <li>
+        <a href="https://www.marry.com.tw/abouts-question.html?a_id=1034">
+         聯絡客服
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="" id="webLink">
+    <h3>
+     相關服務：
+    </h3>
+    <ul>
+     <li>
+      <a href="http://www.518.com.tw" target="_blank" title="518人力銀行">
+       518人力銀行
+      </a>
+     </li>
+     <li>
+      <a href="https://www.chickpt.com.tw/" target="_blank" title="小雞上工">
+       小雞上工
+      </a>
+     </li>
+     <li>
+      <img src="https://statics.marry.com.tw/img/public/new.png"/>
+      <a href="http://ask.518.com.tw/" target="_blank" title="518好公司">
+       518好公司
+      </a>
+     </li>
+     <li>
+      <a href="http://www.tasker.com.tw/" target="_blank" title="Tasker出任務">
+       Tasker出任務
+      </a>
+     </li>
+     <li>
+      <a href="http://www.8591.com.tw" target="_blank" title="8591寶物交易">
+       8591寶物交易
+      </a>
+     </li>
+     <li>
+      <a href="http://www.591.com.tw" target="_blank" title="591房屋交易">
+       591房屋交易
+      </a>
+     </li>
+     <li class="isEnd">
+      <a href="http://www.591.com.hk" target="_blank" title="香港591">
+       香港591
+      </a>
+     </li>
+     <br/>
+     <li>
+      <a href="http://rent.591.com.tw/" target="_blank" title="591租屋">
+       591租屋
+      </a>
+     </li>
+     <li>
+      <a href="http://sale.591.com.tw/" target="_blank" title="591售屋">
+       591售屋
+      </a>
+     </li>
+     <li>
+      <a href="https://newhouse.591.com.tw/" target="_blank" title="591新建案">
+       591新建案
+      </a>
+     </li>
+     <li>
+      <a href="https://market.591.com.tw/" target="_blank" title="591實價登錄">
+       591實價登錄
+      </a>
+     </li>
+     <li>
+      <a href="http://www.100.com.tw" target="_blank" title="100室內設計">
+       100室內設計
+      </a>
+     </li>
+     <li>
+      <a href="http://www.8891.com.tw" target="_blank" title="8891中古車網">
+       8891中古車網
+      </a>
+     </li>
+     <li>
+      <a href="http://c.8891.com.tw/" target="_blank" title="8891新車網">
+       8891新車網
+      </a>
+     </li>
+    </ul>
+    <ol class="other">
+     <li>
+      <a href="http://www.addcn.com.tw/investment-basic.html" target="_blank" title="投資者資訊">
+       投資者資訊
+      </a>
+     </li>
+     <li>
+      <a href="http://www.addcn.com.tw/social-welfare2012.html" target="_blank" title="社會公益">
+       社會公益
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/abouts-term_of_use.html" title="服務條款">
+       服務條款
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/abouts-privacy.html" title="隱私權聲明">
+       隱私權聲明
+      </a>
+     </li>
+     <li>
+      <a href="https://www.marry.com.tw/abouts-laimer.html" title="免責聲明">
+       免責聲明
+      </a>
+     </li>
+     <li>
+      <a href="http://www.addcn.com.tw/media-third_pp.html" target="_blank" title="第三方支付新聞">
+       第三方支付新聞
+      </a>
+     </li>
+    </ol>
+    <p align="center">
+     <a href="https://www.addcn.com.tw/" rel="noopener noreferrer" target="_blank">
+      <img alt="數字科技上櫃 代號：5287" src="https://statics.marry.com.tw/img/public/footer_award_addcn.png"/>
+     </a>
+     <a href="https://www.marry.com.tw/abouts-news_detail-71.html" target="_blank">
+      <img alt="國家品牌玉山獎 2018 人氣品牌獎" src="https://statics.marry.com.tw/img/public/footer_award_2018.png"/>
+     </a>
+     <a href="https://www.sgs.com.tw/zh-tw/certified-clients-and-products/certified-client-directory" rel="noopener noreferrer" target="_blank">
+      <img alt="SGS-BS10012 國際個資驗證" src="https://statics.marry.com.tw/img/public/footer_award_SGS.png"/>
+     </a>
+    </p>
+    <p>
+     Copyright © 2020 by Addcn Technology Co., Ltd. All Rights Reserved.
+    </p>
+   </div>
+  </footer>
+  <script>
+   // fix IE 11
+if (navigator.userAgent.indexOf('MSIE') !== -1 || navigator.appVersion.indexOf('Trident/') > -1) {
+document.write('<script src="https://code.jquery.com/jquery-1.8.3.min.js"><\/script>');
+}
+  </script>
+  <script src="https://statics.marry.com.tw/venue-shop-20200923001.js" type="text/javascript">
+  </script>
+  <input id="marry_access_toke" type="hidden" value="sRHTZSRCth4Z+Z0GWFPC/Ks3pXxoPw+mVD03ZeKAYkK3hhOa7nRv+A53Kx4bgq/Cqm3SUosBMzgEUvrDGOShukkzKoKg3dV1xB1HOZ1reXslpYIzq0GbgI/EW8j0sA1uloBKcPTgJfZiN8fGRqGALFrmSmY6+tUarQaohA0AZMnN59vvvO1O2kJK/qKtM2Y7Mzx+14PuyHcHHiU03932BadUfQBL48QqYKua77mc8jmL4gI++RT1gBQcF6vQ7mDbcmdufLfIMbEB93wcruqcIuuZ20ri/uWf8QWQJROr8tPls0lBFx4Oq7mD0SpjAaNlOlqqiTtDVHb75HzHO6/c1Set6g40S294Ss3BJ1+pDKtu2K/najQo9RiDrJPPl2EYTcJsAGzSOJ98ksAiohgRZqtPl/ntX4fFGJHRQm+2IdZ9XgWQnIWzlK7lqIx4i1NUTtZVyc65wJewu3+xe4kDGZwYq6GAhwuGhAG43U34YQ4GUvSEk/LBeX5MIoImwVnt9R29+6Hj8PS0B+bfrClIS5+P1fLl9s+Mnh9/CT3IcIZ7CnMKt21aHeE64fA"/>
+  <input id="fb_app_id" type="hidden" value="1802784896617361"/>
+  <input id="fb_scope" type="hidden" value="public_profile,email"/>
+  <input id="SM_ID" type="hidden" value="0"/>
+  <input id="SM_ROLE_TYPE" type="hidden" value="0"/>
+  <input id="SM_ID_ENCODE" type="hidden" value="aEtWdXBvSWR1YTY5"/>
+  <input id="CFG_WWW_URL" type="hidden" value="https://www.marry.com.tw"/>
+  <input id="CFG_3DSPACE_URL" type="hidden" value="https://d6mfmobcg1vn8.cloudfront.net/3dspace"/>
+  <input id="CFG_STATICS_URL" type="hidden" value="https://statics.marry.com.tw"/>
+  <input id="CFG_STATICS_UPTIME" type="hidden" value="20200923001"/>
+  <input id="DEVICE_MOBILE" type="hidden" value=""/>
+  <input id="DEVICE_PLATFORM" type="hidden" value="3"/>
+  <input id="CFG_APP_SERVE_PUBLIC_KEY" type="hidden" value="BOJ07_CzAd_wLt_m1K4Ml6CJoD43R4LW4rE5nYt4JYsK5rwKO88QYAf6qe8E7fvUa2iHSOv5lCh06IHEUL_VPxk"/>
+  <input id="SHOW_GCM_SUBSCRIPTION" type="hidden" value="1"/>
+  <input id="SHOW_GCM_SECOUND" type="hidden" value="10000"/>
+  <input id="ADMIN_MODE" type="hidden" value="0"/>
+  <input id="auto_gcm" type="hidden" value=""/>
+  <input id="history_v2_id" type="hidden" value="572322067"/>
+  <input id="history_v2_prev_id" type="hidden" value="0"/>
+  <input id="websocket_url" type="hidden" value="wss://www.marry.com.tw:8081"/>
+  <input id="websocket_open" type="hidden" value="0"/>
+  <input id="websocket_status" type="hidden" value="1"/>
+  <input id="websocket_token" type="hidden" value="ncjosWcixNWXalv0mr03NlqYoWwNyrKqs3ojcL+aWoNoOBLM5JCvPs9ADsMUAwXHbTA+RUx6DjexX4ZDs13q+ecZGFFqV0KKtU/MPHqvFcW0bnHZnoxx+dD4uYnKA1RJQtUyhAhkFNzxxNXXpCUM3hsAuHmhOM8FJnI+YCsTBfwKXeMDLtE9rVtubgY/XxsNWXgXJnZNOoGX1zE/pnWplC13N0uPLaL7csJvYJSsedkUR68lYp0kXnB3SHSVy/GZe83t1ZYTpGe0bTkYOtFMFxzHmvWPLDea+iVvLSv+qACaWZkgCUVrIN7dhuLF/9R/XysWFfrc5zzdryzOfsxzc5rdt5Bfaa204rjhUPWGr90DoD6dCQXt4Xe8tPTw/Tqd/LQbK2qF8xsw+zn3Sh6TucF445ZKL4Tp1vKIfSnsB2Gw+luRN6ra2iRxfO4qWN2fOjQ46yLFZgjKtSY5vhWiMRIYggQjqCN15YrShQvGZA+EkKay2AIdrID7P744jNp4O6aB8rBcotzYkq9k"/>
+  <input id="module_name" type="hidden" value="venue"/>
+  <input id="action_name" type="hidden" value="shop"/>
+  <input id="asck" type="hidden" value=""/>
+  <input id="is_get_tooltip" type="hidden" value="0"/>
+  <input id="asck_tid" type="hidden" value=""/>
+  <input id="is_app_into" type="hidden" value="0"/>
+  <input id="open_fb_fun" type="hidden" value="0"/>
+  <input id="auto_js" type="hidden" value="   "/>
+  <input id="admin_mode_show" type="hidden" value=""/>
+  <div class="chat_combine on_mobile" id="msg_notice_list_main_on_mobile" style="display:none;">
+   <div class="list" style="display:none">
+   </div>
+   <a class="msg_index" href="https://www.marry.com.tw/business-msg_index.html" id="msg_notice_list_msg_index_on_mobile" style="display:none;">
+    <img src="https://statics.marry.com.tw/img/icon/msg_box_all.svg"/>
+   </a>
+   <span id="msg_notice_list_total_on_mobile" style="display:none;">
+    0
+   </span>
+  </div>
+  <div id="msg_notice_list_on_mobile" style="display:none;">
+  </div>
+  <div id="gcm_subscription_div" style="display:none;">
+  </div>
+  <div id="mobile_verify_main_simple" style="display: none;">
+   <div class="msg_verify_phone radius_5 clearfix" rel="msg_verify_phone">
+    <b>
+     想即時接到店家回覆通知？
+    </b>
+    <br/>
+    輸入您的手機：
+    <div class="in_verify">
+     <input class="boxsize basic_input" id="msg_verify_phone_kwds_value" placeholder="輸入您的手機" type="text" value=""/>
+     <input class="send-btn boxsize" onclick="set_advert_agents(823);pop_mobile_verify('想即時接到店家回覆通知？',$('#msg_verify_phone_kwds_value').val());" type="button" value="確認»"/>
+    </div>
+   </div>
+  </div>
+  <div id="ask_msg_main_simple" style="display: none;">
+   <div class="chats_wrap">
+    <table style="width: 100%; height: 100%;">
+     <tbody>
+      <tr>
+       <td class="chat_title chat_title_open_color ani-show" id="chat_title_btn_{targetid}" is_hide="0" onclick="chat_title_btn('#ask_msg_var_{targetid}')" style="cursor:pointer;">
+        <p class="chat_h2">
+         <span class="the_studio" id="t_name_{targetid}" target="_blank">
+         </span>
+         <a class="close_it" href="javascript:;" onclick="ask_msg_view_close('#ask_msg_var_{targetid}');event.stopPropagation();">
+          X
+         </a>
+        </p>
+        <a class="info" href="#" style="display: none;">
+         <img src="https://statics.marry.com.tw/img/icon/more_info.svg"/>
+        </a>
+       </td>
+      </tr>
+      <tr id="tr_chat_accent_{targetid}" style="display: none;">
+       <td class="chat_accent clearfix" id="chat_notice_btn_{targetid}">
+        <p class="chat_h2">
+         <img alt="" class="chat_accent_icon" src="https://statics.marry.com.tw/img/icon/notice.svg"/>
+         <span class="chat_accent_status">
+         </span>
+         <a class="chat_accent_btn" href="javascript:;">
+         </a>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td style="height:100%; ">
+        <div class="v_chat_room" id="ask_msg_list_{targetid}" rel_m_id="{targetid}">
+         <img id="ask_msg_list_loading_{targetid}" src="https://statics.marry.com.tw/img/icon/loading.svg" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"/>
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td style="max-height:114px; ">
+        <div class="bottombar" id="ask_msg_var_{targetid}_{targetsid}" style="display:none;" target_s_id="{targetsid}">
+         <span class="bottombar_text">
+          是否將資訊一併傳送給店家呢？
+         </span>
+         <span class="bottombar_btn_group clearfix">
+          <a class="bottombar_btn_cancel" onclick="$(this).parent().parent().remove();$('#ask_msg_var_{targetid}').attr('rel_s_id','');$('#show_ask_service_detail_{targetid}_{targetsid}').remove();" style="cursor:pointer;" target_id="{targetid}" target_s_id="{targetsid}">
+           取消
+          </a>
+          <a class="bottombar_btn_send" onclick="ask_msg_send_service('#ask_msg_var_{targetid}',this);" rel_sending="0" style="cursor:pointer;" target_id="{targetid}" target_s_id="{targetsid}">
+           發送
+          </a>
+         </span>
+        </div>
+        <div class="msg_ctabox" id="active_20200629_reply_{targetid}" rel_is_show_active_20200629_reply="0" rel_show_active_20200629_reply="0" style="display:none;">
+         <a class="btn_close" onclick="$('#active_20200629_reply_{targetid}').hide();">
+         </a>
+         <p>
+          找到店家沒？
+          <br/>
+          點此回報已下定活動店家，就抽現金家電！
+         </p>
+         <a class="btn_cta" href="https://docs.google.com/forms/d/e/1FAIpQLSfZlveTK1jxDFds0GewZCgAp0uqzOW57rXRIN78ha5i1YMzxA/viewform?usp=pp_url&amp;entry.174464462={t_link_m_id}" id="active_20200629_reply_link_{targetid}">
+          立即回報
+         </a>
+        </div>
+        <div class="box_chat clearfix ask_msg_var" id="ask_msg_var_{targetid}" rel_m_id="{targetid}" rel_s_id="{targetsid}">
+         <span class="toolTips" id="ask_msg_var_bottom_tips_top_{targetid}" rel_is_show="0" style="display:none;">
+          打鐵趁熱馬上來進一步聊聊吧～
+         </span>
+         <div class="msg_tipBar" id="ask_msg_var_bottom_tips_body_{targetid}" rel_is_show="0" style="display:none;">
+          我們已替您通知他囉～新人尚未回覆再等等唷
+         </div>
+         <input name="t_id" type="hidden" value="{targetid}"/>
+         <input name="s_id" type="hidden" value="{targetsid}"/>
+         <input name="last_msg_id" type="hidden" value="0"/>
+         <input name="asck" type="hidden" value="{asck}"/>
+         <input name="asck_tid" type="hidden" value="{asck_tid}"/>
+         <input name="is_service" type="hidden" value="0"/>
+         <input name="service_id" type="hidden" value="0"/>
+         <input name="ask_type" type="hidden" value=""/>
+         <input name="request_type" type="hidden" value=""/>
+         <input name="last_msg_id" type="hidden" value="0"/>
+         <div class="send_btn msg_descri" contenteditable="true" id="msg_descri_{targetid}" is_focus="0" name="descri_div" onclick='ask_msg_list("#ask_msg_var_{targetid}");' placeholder="輪入訊息 (Shift + Enter 換行)" style="cursor:text;">
+         </div>
+         <a class="chat_btn_send ask_msg_send" href="javascript:;" id="ask_msg_send_{targetid}" onclick="ask_msg_send('#ask_msg_var_{targetid}');">
+          <img alt="" class="send_icon" src="https://statics.marry.com.tw/img/public/msg_send.svg"/>
+          <img alt="" class="loading_icon" src="https://statics.marry.com.tw/img/icon/loading.svg" style="display:none;"/>
+         </a>
+         <span id="descri_error_{targetid}" style="display:none;">
+          未輸入訊息
+         </span>
+         <div style="clear: both">
+         </div>
+        </div>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+  </div>
+  <script>
+   $(function(){
+if($("#open_fb_fun").val()=='1'){
+setTimeout(function(){
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1&appId=1802784896617361";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+},500);
+}
+});
+  </script>
+  <span class="go_top" style="position: fixed; opacity: 0; cursor: pointer;" title="回頂端">
+   <a href="javascript:;" id="2top" title="回頂端">
+    回頂端
+   </a>
+  </span>
+  <script id="" type="text/javascript">
+   !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","562177280628192");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=562177280628192&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script id="gtm-youtube-tracking" type="text/javascript">
+   (function(k,h,p){function r(){var a=[].slice.call(k.getElementsByTagName("iframe")).concat([].slice.call(k.getElementsByTagName("embed"))),b;for(b=0;b<a.length;b++){var d=u(a[b]);if(d){d=a[b];var c=h.location,e=k.createElement("a");e.href=d.src;e.hostname="www.youtube.com";e.protocol=c.protocol;var f="/"===e.pathname.charAt(0)?e.pathname:"/"+e.pathname;-1<e.search.indexOf("enablejsapi")||(e.search=(0<e.search.length?e.search+"\x26":"")+"enablejsapi\x3d1");if(!(-1<e.search.indexOf("origin"))&&-1===
+c.hostname.indexOf("localhost")){var t=c.port?":"+c.port:"";c=c.protocol+"%2F%2F"+c.hostname+t;e.search=e.search+"\x26origin\x3d"+c}"application/x-shockwave-flash"===d.type&&(c=k.createElement("iframe"),c.height=d.height,c.width=d.width,f=f.replace("/v/","/embed/"),d.parentNode.parentNode.replaceChild(c,d.parentNode),d=c);e.pathname=f;d.src!==e.href+e.hash&&(d.src=e.href+e.hash);v(d)}}"addEventListener"in k&&k.addEventListener("load",C,!0)}function u(a){a=a.src||"";return-1<a.indexOf("youtube.com/embed/")||
+-1<a.indexOf("youtube.com/v/")?!0:!1}function v(a){var b=YT.get(a.id);b||(b=new YT.Player(a,{}));"undefined"===typeof a.pauseFlag&&(a.pauseFlag=!1,b.addEventListener("onStateChange",function(d){D(d,a)}))}function E(a){var b={};g.events["Watch to End"]&&(b["Watch to End"]=Math.min(a-3,Math.floor(.99*a)));if(g.percentageTracking){var d=[],c;g.percentageTracking.each&&(d=d.concat(g.percentageTracking.each));if(g.percentageTracking.every){var e=parseInt(g.percentageTracking.every,10),f=100/e;for(c=1;c<
+f;c++)d.push(c*e)}for(c=0;c<d.length;c++)f=d[c],e=f+"%",f=a*f/100,b[e]=Math.floor(f)}return b}function D(a,b){var d=a.data,c=a.target;a=c.getVideoUrl();a=a.match(/[?&]v=([^&#]*)/)[1];var e=c.getPlayerState(),f=Math.floor(c.getDuration()),t=E(f);f={1:"Play",2:"Pause"};f=f[d];b.playTracker=b.playTracker||{};1!==e||b.timer?(clearInterval(b.timer),b.timer=!1):(clearInterval(b.timer),b.timer=setInterval(function(){var l=c,w=t,m=b.videoId,F=l.getCurrentTime(),n;l[m]=l[m]||{};for(n in w)w[n]<=F&&!l[m][n]&&
+(l[m][n]=!0,x(m,n))},1E3));1===d&&(b.playTracker[a]=!0,b.videoId=a,b.pauseFlag=!1);if(!b.playTracker[b.videoId])return!1;if(2===d){if(b.pauseFlag)return!1;b.pauseFlag=!0}y[f]&&x(b.videoId,f)}function x(a,b){a="https://www.youtube.com/watch?v\x3d"+a;var d=h.GoogleAnalyticsObject;if("undefined"===typeof h[z]||g.forceSyntax)if("function"===typeof h[d]&&"function"===typeof h[d].getAll&&2!==g.forceSyntax)h[d]("send","event","Videos",b,a);else"undefined"!==typeof h._gaq&&1!==G&&h._gaq.push(["_trackEvent",
+"Videos",b,a]);else h[z].push({event:"youTubeTrack",attributes:{videoUrl:a,videoAction:b}})}function A(a,b,d){if(a.addEventListener)a.addEventListener(b,d);else if(a.attachEvent)a.attachEvent("on"+b,function(c){c.target=c.target||c.srcElement;d.call(a,c)});else if("undefined"===typeof a["on"+b]||null===a["on"+b])a["on"+b]=function(c){c.target=c.target||c.srcElement;d.call(a,c)}}function C(a){a=a.target||a.srcElement;var b=u(a);"IFRAME"===a.tagName&&b&&-1<a.src.indexOf("enablejsapi")&&-1<a.src.indexOf("origin")&&
+v(a)}var g=p||{},G=g.forceSyntax||0,z=g.dataLayerName||"dataLayer",y={Play:!0,Pause:!0,"Watch to End":!0},q;p=k.createElement("script");p.src="//www.youtube.com/iframe_api";var B=k.getElementsByTagName("script")[0];B.parentNode.insertBefore(p,B);for(q in g.events)g.events.hasOwnProperty(q)&&(y[q]=g.events[q]);h.onYouTubeIframeAPIReady=function(){var a=h.onYouTubeIframeAPIReady;return function(){a&&a.apply(this,arguments);navigator.userAgent.match(/MSIE [67]\./gi)||("loading"!==k.readyState?r():k.addEventListener?
+A(k,"DOMContentLoaded",r):A(h,"load",r))}}()})(document,window,{events:{Play:!0,Pause:!0,"Watch to End":!0},percentageTracking:{every:25,each:[10,90]}});
+  </script>
+  <script id="gtm-vimeo-tracking" type="text/javascript">
+   (function(l,f,m){function r(){var a=t(v("iframe"),w);a.length&&x(function(){n(a,y)})}function w(a){return-1<a.src.indexOf("player.vimeo.com/video/")}function x(a){p(f.Vimeo)?z("https://player.vimeo.com/api/player.js",a):a()}function y(a){if(!a.__vimeoTracked){a.__vimeoTracked=!0;var d=new Vimeo.Player(a),b=m._track.percentages,c={};d.getVideoTitle().then(function(e){d.on("play",function(){q("Play",e)});d.on("pause",function(g){1!==g.percent&&q("Pause",e)});d.on("ended",function(){q("Watch to End",
+e)});d.on("timeupdate",function(g){g=g.percent;for(var h in b)g>=b[h]&&!c[h]&&(c[h]=!0,q(h,e))})})}}function A(a){a=B({},{events:{Play:!0,Pause:!0,"Watch to End":!0},percentages:{each:[],every:[]},dataLayerName:"dataLayer"},a);n(["each","every"],function(c){var e=a.percentages[c];u(e)||(e=[e]);e&&(a.percentages[c]=C(e,Number))});var d=[].concat(a.percentages.each);a.percentages.every&&n(a.percentages.every,function(c){var e=100/c,g=[],h;for(h=1;h<e;h++)g.push(c*h);d=d.concat(t(g,function(k){return 0<
+k&&100>k}))});var b=D(d,function(c,e){c[e+"%"]=e/100;return c},{});a._track={percentages:b};return a}function E(a){a=a||{};var d=a.name||"dataLayer",b=a.name||f.GoogleAnalyticsObject||"ga",c="_gaq",e={gtm:function(h,k){g.push({event:"vimeoTrack",attributes:{videoAction:h,videoName:k}})},cl:function(h,k){f[c].push(["_trackEvent","Videos",h,k])},ua:function(h,k){f[b]("send","event","Videos",h,k)}};switch(a.type){case "gtm":var g=f[d]=f[d]||[];break;case "ua":f[b]=f[b]||function(){(f[b].q=f[b].q||[]).push(arguments)};
+f[b].l=+new Date;break;case "cl":f[c]=f[c]||[];break;default:p(f[m.dataLayerName])?b&&!p(f[b])?a.type="ua":p(f[c])||p(f[c].push)||(a.type="cl"):(a.type="gtm",g=f[d]=f[d]||[])}return e[a.type]}function B(){var a=[].slice.call(arguments),d=a.shift(),b,c;for(c=0;c<a.length;c++){var e=a[c];for(b in e)d[b]=e[b]}return d}function u(a){return Array.isArray_?Array.isArray_(a):"[object Array]"===Object.prototype.toString.call(a)}function n(a,d){if(Array.prototype.forEach_)return a.forEach.call(a,d);var b;
+for(b=0;b<a.length;b++)d.call(f,a[b],b,a)}function C(a,d){if(Array.prototype.map_)return a.map.call(a,d);var b=[];n(a,function(c,e,g){b.push(d.call(f,c,e,g))});return b}function t(a,d){if(Array.prototype.filter)return a.filter.call(a,d);var b=[];n(a,function(c,e,g){d.call(f,c,e,g)&&b.push(c)});return b}function D(a,d,b){if(Array.prototype.reduce)return a.reduce.call(a,d,b);var c;for(c=0;c<a.length;c++){var e=a[c];b=d.call(f,b,e,a,c)}return b}function p(a){return"undefined"===typeof a}function v(a){u(a)||
+(a=[a]);return[].slice.call(l.querySelectorAll(a.join()))}function z(a,d){function b(){d&&(d(),e.onload=null)}var c=l.getElementsByTagName("script")[0];var e=l.createElement("script");e.onload=b;e.src=a;e.async=!0;c.parentNode.insertBefore(e,c)}if(!navigator.userAgent.match(/MSIE [678]\./gi)){m=A(m);var q=E(m.syntax);"loading"!==l.readyState?r():l.addEventListener("DOMContentLoaded",function(){r();l.addEventListener("load",r,!0)})}})(document,window,{events:{Play:!0,Pause:!0,"Watch to End":!0},percentages:{every:25,
+each:[10,90]}});
+  </script>
+  <script id="" type="text/javascript">
+   (function(a){var b=location.href;a(document).ajaxSuccess(function(c,d,e){b!=location.href&&dataLayer.push({event:"afterAjaxLoaded"})})})(jQuery);
+  </script>
+  <div id="batBeacon0.9861797325872541" style="width:0px; height:0px; display:none; visibility:hidden;">
+   <img alt="" height="0" id="batBeacon0.15495394095626303" src="https://bat.bing.com/action/0?ti=5296189&amp;Ver=2&amp;mid=400e8e02-a21c-c7ad-d2d8-729ec82105ef&amp;sid=3711772ad57570e2c7b5b750a56d9c04&amp;vid=3c47ebadbd0e206688c68c18fec90707&amp;vids=1&amp;pi=1200101525&amp;lg=zh-TW&amp;sw=1280&amp;sh=800&amp;sc=30&amp;tl=%E5%A9%9A%E5%AE%B4%E5%A0%B4%E5%9C%B0%E5%85%A8%E5%8F%B0%E8%92%90%E7%BE%85649%E5%AE%B6%EF%BC%8C%E8%B3%9E%E5%BB%B3%E6%8C%91%E5%A9%9A%E5%AE%B4%E6%9C%83%E9%A4%A8%E6%9C%80%E5%A4%9A%E7%8D%A8%E5%AE%B6%E5%84%AA%E6%83%A0%E6%96%B9%E6%A1%88%EF%BC%81%E3%80%8A%E7%B5%90%E5%A9%9A%E5%90%A7%E3%80%8B&amp;p=https%3A%2F%2Fwww.marry.com.tw%2Fvenue-shop-kwbt2004mmir0mmpg1mm&amp;r=&amp;lt=1053&amp;evt=pageLoad&amp;msclkid=N&amp;sv=1&amp;rn=396701" style="width:0px; height:0px; display:none; visibility:hidden;" width="0"/>
+  </div>
+ </body>
+</html>
